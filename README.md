@@ -6,7 +6,7 @@ In addition to comma separated files it will also handle tab separated (TSV) and
 No attempt to be RFC 4180 compliant was made, but it is fully capable of handling all the cases enumerated on
 the Wikipedia CSV page https://en.wikipedia.org/wiki/Comma-separated_values.
 
-The program has no dependancies other than a standards compilation environment and its source code is in the public domain.
+The program has no dependancies other than a standard compilation environment, and its source code is in the public domain.
 
  
 ## Key Capabilities
